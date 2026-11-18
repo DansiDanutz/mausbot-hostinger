@@ -1,0 +1,16 @@
+{
+  "name": "mausbot-hostinger",
+  "version": "0.1.169",
+  "private": true,
+  "type": "module",
+  "description": "OpenMausBot server on Hostinger Node.js web apps",
+  "engines": {
+    "node": ">=24"
+  },
+  "scripts": {
+    "start": "node start.mjs"
+  },
+  "dependencies": {
+    "openmausbot": "0.1.169"
+  }
+}
